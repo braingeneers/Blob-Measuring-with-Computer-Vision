@@ -30,7 +30,7 @@
         "102888A8-AAA2-4F19-9E94-0BFBB8EDE54F"
       ],
       "BCE9474B-6789-4F78-B140-E2CCE1AF8098" : [
-        "DC02378B-DC5A-46EE-AAED-2B3ECCF670A6"
+        "2EEEC46F-C5A7-427D-B09D-2125C86372A6"
       ],
       "C4419991-A4FC-4CEE-858A-6AD7F9FA29F4" : [
         "D89A4292-E677-42AF-B1F0-433ECE72B14D"
@@ -603,7 +603,6 @@
         "size" : "{321.59999999999997, 244.79999999999998}",
         "tag" : 0,
         "theme_style" : "style_11",
-        "value" : "",
         "visible" : true
       },
       {
@@ -668,18 +667,19 @@
       {
         "angle" : 0,
         "connectable" : true,
-        "identifier" : "DC02378B-DC5A-46EE-AAED-2B3ECCF670A6",
-        "image" : "aq1jrgvp",
+        "identifier" : "2EEEC46F-C5A7-427D-B09D-2125C86372A6",
+        "image" : "8dcyls4i",
         "is_locked" : false,
         "is_relative" : false,
         "is_template" : false,
         "lock_aspect_ratio" : false,
-        "position" : "{58.201438848920873, 585}",
+        "position" : "{65, 560}",
         "private_style" : {
+          "shadow_color" : "#000000FF",
           "text_vertical_alignment" : 0
         },
         "shape" : "image",
-        "size" : "{306.79856115107913, 215.92405063291142}",
+        "size" : "{310, 223.53544776119409}",
         "tag" : 0,
         "theme_style" : "style_11",
         "value" : "",
